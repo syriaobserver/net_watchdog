@@ -1,4 +1,4 @@
-# net_watchdog
+# net_watchdog(Personal project)
 
 A lightweight Python tool for sysadmins to monitor remote network endpoints in hostile environments.
 
