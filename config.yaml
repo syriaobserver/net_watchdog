@@ -1,0 +1,7 @@
+# Target hosts to monitor for availability
+hosts:
+  - http://192.168.10.1   # local router
+  - http://10.0.0.254     # VPN gateway
+  - https://relay.opsnet.org
+  - https://control.silentchain.net
+interval: 300  # check interval in seconds (5 minutes)
